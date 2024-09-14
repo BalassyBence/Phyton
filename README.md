@@ -1,0 +1,2 @@
+# Phyton
+first python code
